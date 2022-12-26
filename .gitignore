@@ -2,7 +2,7 @@
 
 .git
 # CS61A 必须的
-
+lecture*/
 backup*/
 obj/
 bin/
